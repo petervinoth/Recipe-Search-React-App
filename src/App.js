@@ -3,7 +3,7 @@ import './App.css';
 //import Recipe from "./Recipes";
 import Food from "./Api component/food";
 import Home from "./Api component/Home";
-import {Image} from 'react-bootstrap';
+
 import {BrowserRouter,Switch,Route} from "react-router-dom";
 
 const App=()=>{

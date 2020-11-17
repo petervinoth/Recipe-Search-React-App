@@ -5,8 +5,8 @@ import  "./Recipes.css";
 
 const Recipe=({title,Calories,image,IngredientLines,id})=>{
 
-  const [ids,setIds]=useState("");
-  console.log(ids);
+ // const [ids,setIds]=useState("");
+  //console.log(ids);
  
 
     return(

@@ -1,7 +1,7 @@
 import React from 'react';
 import './Home.css';
 import {Button} from 'reactstrap';
-import {useHistory,Link} from 'react-router-dom';
+import {useHistory} from 'react-router-dom';
 
  const Home=()=> {
     const history=useHistory();
